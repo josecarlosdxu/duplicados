@@ -1,0 +1,13 @@
+{
+    "name": "duplicated",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "json-server --watch csvjson.json"
+    },
+    "author": "jcm",
+    "devDependencies": {
+        "json-server": "^0.16.3"
+    }
+}
